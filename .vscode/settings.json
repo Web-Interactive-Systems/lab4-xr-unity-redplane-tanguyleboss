@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "lab4-xr-redplane.sln"
+    "dotnet.defaultSolution": "lab4-xr-unity-redplane-tanguyleboss.sln"
 }

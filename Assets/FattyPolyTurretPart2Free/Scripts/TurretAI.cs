@@ -49,6 +49,7 @@ public class TurretAI : MonoBehaviour
 		}
 
 		// Todo init rotate
+		InitRotate();
 	}
 
 	void Update()
@@ -68,6 +69,7 @@ public class TurretAI : MonoBehaviour
 		{
 			// Todo 
 			// idle rotate 
+			IdleRotate();
 		}
 
 		timer += Time.deltaTime;

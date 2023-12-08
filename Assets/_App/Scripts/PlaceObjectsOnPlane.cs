@@ -72,7 +72,7 @@ public class PlaceObjectsOnPlane : MonoBehaviour
 					{
 
 						// Todo set missile position
-
+						SpawnerScript.Instance.setMissilePosition(hitPose.position);
 						// Todo Spawn planes
 
 						// Create instance of the the prefab to place
